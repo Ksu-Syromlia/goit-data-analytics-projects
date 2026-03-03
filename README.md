@@ -16,3 +16,6 @@ Tech stack:
 * Python, Jupyter Notebook
 * Pandas, NumPy
 * Matplotlib
+
+# Link to the presentation
+https://drive.google.com/file/d/1vJVcwELlYZN8pq2_SXfEGCqKzZdvCB00/view?usp=drive_link
